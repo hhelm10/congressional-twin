@@ -1,0 +1,101 @@
+person,state,district,vote,name,party,matched-name,twitter-handle,matched-state,matched-party
+300018,WA,,Yea,Sen. Maria Cantwell [D],Democrat,"Cantwell, Maria",senatorcantwell,WA,D
+300019,DE,,Yea,Sen. Thomas Carper [D],Democrat,"Carper, Thomas ",senatorcarper,DE,D
+300025,ME,,Yea,Sen. Susan Collins [R],Republican,"Collins, Susan ",senatorcollins,ME,R
+300027,TX,,Yea,Sen. John Cornyn [R],Republican,"Cornyn, John",johncornyn,TX,R
+300030,ID,,Yea,"Sen. Michael “Mike” Crapo [R, 1999-2028]",Republican,"Crapo, Mike",mikecrapo,ID,R
+300038,IL,,Yea,Sen. Richard Durbin [D],Democrat,Dick Durbin D-IL,senatordurbin,IL,D
+300043,CA,,Yea,"Sen. Dianne Feinstein [D, 1992-2023]",Democrat,Dianne Feinstein D-CA,senfeinstein,CA,D
+300047,SC,,Not Voting,Sen. Lindsey Graham [R],Republican,"Graham, Lindsey",lindseygrahamsc,SC,R
+300048,IA,,Yea,"Sen. Charles “Chuck” Grassley [R, 1981-2028]",Republican,"Grassley, Chuck",chuckgrassley,IA,R
+300055,OK,,Nay,"Sen. James “Jim” Inhofe [R, 1994-2022]",Republican,,,,
+300065,VT,,Yea,"Sen. Patrick Leahy [D, 1975-2022]",Democrat,Patrick Leahy D-VT,senatorleahy,VT,D
+300072,KY,,Yea,Sen. Mitch McConnell [R],Republican,Mitch McConnell R-KY,senatemajldr,KY,R
+300075,AK,,Yea,"Sen. Lisa Murkowski [R, 2003-2028]",Republican,"Murkowski, Lisa",lisamurkowski,AK,R
+300076,WA,,Yea,"Sen. Patty Murray [D, 1993-2028]",Democrat,"Murray, Patty",pattymurray,WA,D
+300081,RI,,Yea,Sen. John F. “Jack” Reed [D],Democrat,Jack Reed D-RI,senjackreed,RI,D
+300087,NY,,Yea,"Sen. Charles “Chuck” Schumer [D, 1999-2028]",Democrat,Chuck Schumer D-NY,senschumer,NY,D
+300089,AL,,Nay,"Sen. Richard Shelby [R, 1987-2022]",Republican,Richard Shelby R-AL,senshelby,AL,R
+300093,MI,,Yea,Sen. Debbie Stabenow [D],Democrat,Debbie Stabenow D-MI,senstabenow,MI,D
+300100,OR,,Yea,"Sen. Ron Wyden [D, 1996-2028]",Democrat,"Wyden, Ron",ronwyden,OR,D
+400013,WI,,Yea,Sen. Tammy Baldwin [D],Democrat,"Baldwin, Tammy",senatorbaldwin,WI,D
+400032,TN,,Nay,Sen. Marsha Blackburn [R],Republican,"Blackburn, Marsha",marshablackburn,TN,R
+400034,MO,,Not Voting,"Sen. Roy Blunt [R, 2011-2022]",Republican,,,,
+400040,AR,,Nay,"Sen. John Boozman [R, 2011-2028]",Republican,"Boozman, John",johnboozman,AR,R
+400050,OH,,Yea,Sen. Sherrod Brown [D],Democrat,"Brown, Sherrod",sensherrodbrown,OH,D
+400054,NC,,Nay,"Sen. Richard Burr [R, 2005-2022]",Republican,Richard Burr R-NC,senatorburr,NC,R
+400061,WV,,Yea,Sen. Shelley Moore Capito [R],Republican,"Capito, Shelley Moore",sencapito,WV,R
+400064,MD,,Yea,Sen. Benjamin Cardin [D],Democrat,Ben Cardin D-MD,senatorcardin,MD,D
+400253,MA,,Yea,Sen. Edward “Ed” Markey [D],Democrat,Ed Markey D-MA,senmarkey,MA,D
+400272,NJ,,Yea,"Sen. Robert “Bob” Menendez [D, 2006-2024]",Democrat,"Menendez, Bob",senatormenendez,NJ,D
+400284,KS,,Yea,"Sen. Jerry Moran [R, 2011-2028]",Republican,"Moran, Jerry",jerrymoran,KS,R
+400325,OH,,Yea,"Sen. Robert “Rob” Portman [R, 2011-2022]",Republican,Rob Portman R-OH,senrobportman,OH,R
+400357,VT,,Nay,Sen. Bernard “Bernie” Sanders [I],Independent,Bernard Sanders I-VT,sensanders,VT,I
+400408,PA,,Nay,"Sen. Patrick “Pat” Toomey [R, 2011-2022]",Republican,Pat Toomey R-PA,sentoomey,PA,R
+400415,MD,,Yea,"Sen. Chris Van Hollen [D, 2017-2028]",Democrat,"Van Hollen, Chris",chrisvanhollen,MD,D
+400432,MS,,Yea,Sen. Roger Wicker [R],Republican,Roger Wicker R-MS,senatorwicker,MS,R
+400546,SD,,Nay,"Sen. John Thune [R, 2005-2028]",Republican,John Thune R-SD,senjohnthune,SD,R
+412194,CT,,Yea,Sen. Christopher Murphy [D],Democrat,"Murphy, Christopher",chrismurphyct,CT,D
+412200,HI,,Yea,Sen. Mazie Hirono [D],Democrat,"Hirono, Mazie ",maziehirono,HI,D
+412223,NY,,Yea,Sen. Kirsten Gillibrand [D],Democrat,"Gillibrand, Kirsten ",sengillibrand,NY,D
+412242,MN,,Yea,Sen. Amy Klobuchar [D],Democrat,"Klobuchar, Amy",senamyklobuchar,MN,D
+412244,MT,,Yea,Sen. Jon Tester [D],Democrat,Jon Tester D-MT,senatortester,MT,D
+412246,PA,,Yea,Sen. Robert “Bob” Casey [D],Democrat,"Casey, Robert Jr.",senbobcasey,PA,D
+412247,RI,,Yea,Sen. Sheldon Whitehouse [D],Democrat,Sheldon Whitehouse D-RI,senwhitehouse,RI,D
+412251,WY,,Nay,Sen. John Barrasso [R],Republican,"Barrasso, John",senjohnbarrasso,WY,R
+412269,LA,,Yea,Sen. Bill Cassidy [R],Republican,Bill Cassidy R-LA,senbillcassidy,LA,R
+412281,NM,,Yea,Sen. Martin Heinrich [D],Democrat,"Heinrich, Martin",martinheinrich,NM,D
+412293,NM,,Yea,Sen. Ben Ray Luján [D],Democrat,Ben Lujan D-NM,senatorlujan,NM,D
+412294,WY,,Nay,Sen. Cynthia Lummis [R],Republican,Cynthia Lummis R-WY,senlummis,WY,R
+412305,MI,,Yea,Sen. Gary Peters [D],Democrat,Gary Peters D-MI,sengarypeters,MI,D
+412321,VA,,Yea,Sen. Mark Warner [D],Democrat,"Warner, Mark ",markwarner,VA,D
+412322,ID,,Yea,Sen. James Risch [R],Republican,Jim Risch R-ID,senatorrisch,ID,R
+412323,NH,,Yea,Sen. Jeanne Shaheen [D],Democrat,Jeanne Shaheen D-NH,senatorshaheen,NH,D
+412325,OR,,Yea,Sen. Jeff Merkley [D],Democrat,Jeff Merkley D-OR,senjeffmerkley,OR,D
+412330,CO,,Yea,"Sen. Michael Bennet [D, 2009-2028]",Democrat,"Bennet, Michael F.",senatorbennet,CO,D
+412390,DE,,Yea,Sen. Christopher Coons [D],Democrat,Chris Coons D-DE,sencoonsoffice,DE,D
+412391,WV,,Yea,Sen. Joe Manchin [I],Democrat,Joseph Manchin D-WV,sen_joemanchin,WV,D
+412428,IN,,Yea,"Sen. Todd Young [R, 2017-2028]",Republican,Todd Young R-IN,sentoddyoung,IN,R
+412464,OK,,Nay,"Sen. James Lankford [R, 2015-2028]",Republican,James Lankford R-OK,senatorlankford,OK,R
+412471,SC,,Nay,"Sen. Tim Scott [R, 2013-2028]",Republican,"Scott, Tim",senatortimscott,SC,R
+412490,CT,,Yea,"Sen. Richard Blumenthal [D, 2011-2028]",Democrat,"Blumenthal, Richard",senblumenthal,CT,D
+412491,FL,,Nay,"Sen. Marco Rubio [R, 2011-2028]",Republican,"Rubio, Marco",marcorubio,FL,R
+412492,KY,,Nay,"Sen. Rand Paul [R, 2011-2028]",Republican,"Paul, Rand",randpaul,KY,R
+412494,ND,,Nay,"Sen. John Hoeven [R, 2011-2028]",Republican,"Hoeven, John",senjohnhoeven,ND,R
+412495,UT,,Nay,"Sen. Mike Lee [R, 2011-2028]",Republican,"Lee, Mike",senmikelee,UT,R
+412496,WI,,Nay,"Sen. Ron Johnson [R, 2011-2028]",Republican,"Johnson, Ron",senronjohnson,WI,R
+412507,HI,,Yea,"Sen. Brian Schatz [D, 2012-2028]",Democrat,Brian Schatz D-HI,senbrianschatz,HI,D
+412508,AR,,Not Voting,Sen. Tom Cotton [R],Republican,"Cotton, Tom",sentomcotton,AR,R
+412509,AZ,,Yea,Sen. Kyrsten Sinema [I],Democrat,Kyrsten Sinema D-AZ,repsinema,AZ,D
+412533,IL,,Yea,"Sen. Tammy Duckworth [D, 2017-2028]",Democrat,"Duckworth, Tammy",senduckworth,IL,D
+412542,MA,,Yea,Sen. Elizabeth Warren [D],Democrat,Elizabeth Warren D-MA,senwarren,MA,D
+412545,ME,,Yea,Sen. Angus King [I],Independent,Angus King I-ME,senangusking,ME,I
+412549,MT,,Yea,Sen. Steve Daines [R],Republican,"Daines, Steve",stevedaines,MT,R
+412555,ND,,Nay,Sen. Kevin Cramer [R],Republican,"Cramer, Kevin",senkevincramer,ND,R
+412556,NE,,Nay,Sen. Deb Fischer [R],Republican,Deb Fischer R-NE,senatorfischer,NE,R
+412573,TX,,Nay,Sen. Ted Cruz [R],Republican,"Cruz, Ted",sentedcruz,TX,R
+412582,VA,,Yea,Sen. Timothy “Tim” Kaine [D],Democrat,"Kaine, Tim",timkaine,VA,D
+412598,NJ,,Yea,Sen. Cory Booker [D],Democrat,"Booker, Cory ",corybooker,NJ,D
+412665,AK,,Yea,Sen. Dan Sullivan [R],Republican,Dan Sullivan R-AK,sendansullivan,AK,R
+412667,IA,,Nay,Sen. Joni Ernst [R],Republican,"Ernst, Joni",senjoniernst,IA,R
+412668,NC,,Yea,Sen. Thom Tillis [R],Republican,Thom Tillis R-NC,senthomtillis,NC,R
+412669,SD,,Yea,Sen. Mike Rounds [R],Republican,Mike Rounds R-SD,senatorrounds,SD,R
+412671,NE,,Yea,"Sen. Benjamin “Ben” Sasse [R, 2015-2023]",Republican,Ben Sasse R-NE,sensasse,NE,R
+412679,LA,,Not Voting,"Sen. John Neely Kennedy [R, 2017-2028]",Republican,John Kennedy R-LA,senjohnkennedy,LA,R
+412680,NH,,Yea,"Sen. Margaret “Maggie” Hassan [D, 2017-2028]",Democrat,"Hassan, Maggie",senatorhassan,NH,D
+412681,NV,,Yea,"Sen. Catherine Cortez Masto [D, 2017-2028]",Democrat,Catherine Masto D-NV,sencortezmasto,NV,D
+412704,KS,,Nay,Sen. Roger Marshall [R],Republican,,,,
+412715,NV,,Yea,Sen. Jacky Rosen [D],Democrat,Jacky Rosen D-NV,senjackyrosen,NV,D
+412742,MN,,Yea,Sen. Tina Smith [D],Democrat,"Smith, Tina",sentinasmith,MN,D
+412743,MS,,Nay,Sen. Cindy Hyde-Smith [R],Republican,Cindy Hyde-Smith R-MS,senhydesmith,MS,R
+412838,FL,,Nay,Sen. Rick Scott [R],Republican,"Franklin, C. Scott",repfranklin,FL,R
+412839,IN,,Nay,Sen. Mike Braun [R],Republican,"Braun, Mike",senatorbraun,IN,R
+412840,MO,,Nay,Sen. Joshua “Josh” Hawley [R],Republican,"Hawley, Josh",hawleymo,MO,R
+412841,UT,,Yea,Sen. Mitt Romney [R],Republican,Mitt Romney R-UT,senatorromney,UT,R
+456794,AZ,,Yea,"Sen. Mark Kelly [D, 2020-2028]",Democrat,"Kelly, Mark",senmarkkelly,AZ,D
+456796,AL,,Nay,Sen. Tommy Tuberville [R],Republican,Tommy Tuberville R-AL,sentuberville,AL,R
+456797,CO,,Yea,Sen. John Hickenlooper [D],Democrat,"Hickenlooper, John ",senatorhick,CO,D
+456798,TN,,Nay,Sen. Bill Hagerty [R],Republican,Bill Hagerty R-TN,senatorhagerty,TN,R
+456856,CA,,Yea,"Sen. Alejandro “Alex” Padilla [D, 2021-2028]",Democrat,Alex Padilla D-CA,senalexpadilla,CA,D
+456857,GA,,Yea,Sen. Jon Ossoff [D],Democrat,Jon Ossoff D-GA,senossoff,GA,D
+456858,GA,,Yea,"Sen. Raphael Warnock [D, 2021-2028]",Democrat,Raphael Warnock D-GA,senatorwarnock,GA,D
