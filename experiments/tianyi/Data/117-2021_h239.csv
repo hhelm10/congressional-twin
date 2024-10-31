@@ -1,0 +1,431 @@
+person,state,district,vote,name,party,matched-name,twitter-handle,matched-state,matched-party
+400004,AL,4,Nay,"Rep. Robert Aderholt [R, 1997-2024]",Republican,"Aderholt, Robert",robert_aderholt,AL,R
+400030,GA,2,Yea,"Rep. Sanford Bishop [D, 1993-2024]",Democrat,"Bishop Jr., Sanford ",sanfordbishop,GA,D
+400033,OR,3,Not Voting,"Rep. Earl Blumenauer [D, 1996-2024]",Democrat,"Blumenauer, Earl",repblumenauer,OR,D
+400046,TX,8,Nay,"Rep. Kevin Brady [R, 1997-2022]",Republican,Kevin Brady R-TX,repkevinbrady,TX,R
+400052,TX,26,Nay,"Rep. Michael Burgess [R, 2003-2024]",Republican,"Burgess, Michael",michaelcburgess,TX,R
+400057,CA,42,Nay,"Rep. Ken Calvert [R, 2013-2022]",Republican,"Calvert, Ken",kencalvert,CA,R
+400068,TX,31,Nay,"Rep. John R. Carter [R, 2003-2024]",Republican,"Carter, John",judgecarter,TX,R
+400069,HI,1,Yea,"Rep. Ed Case [D, 2019-2024]",Democrat,"Case, Ed",repedcase,HI,D
+400071,OH,1,Nay,"Rep. Steve Chabot [R, 2011-2022]",Republican,Steve Chabot R-OH,repstevechabot,OH,R
+400075,SC,6,Yea,"Rep. James “Jim” Clyburn [D, 1993-2024]",Democrat,,,,
+400077,OK,4,Not Voting,"Rep. Tom Cole [R, 2003-2024]",Republican,"Cole, Tom",tomcoleok04,OK,R
+400081,TN,5,Yea,"Rep. Jim Cooper [D, 2003-2022]",Democrat,Jim Cooper D-TN,repjimcooper,TN,D
+400093,IL,7,Yea,"Rep. Danny Davis [D, 1997-2024]",Democrat,Danny Davis D-IL,repdannydavis,IL,D
+400100,OR,4,Yea,"Rep. Peter DeFazio [D, 1987-2022]",Democrat,Peter DeFazio D-OR,reppeterdefazio,OR,D
+400101,CO,1,Yea,"Rep. Diana DeGette [D, 1997-2024]",Democrat,"DeGette, Diana",repdianadegette,CO,D
+400103,CT,3,Yea,"Rep. Rosa DeLauro [D, 1991-2024]",Democrat,"DeLauro, Rosa ",rosadelauro,CT,D
+400108,FL,25,Nay,"Rep. Mario Diaz-Balart [R, 2013-2022]",Republican,"Diaz-Balart, Mario",mariodb,FL,R
+400111,TX,35,Yea,"Rep. Lloyd Doggett [D, 2013-2022]",Democrat,"Doggett, Lloyd",replloyddoggett,TX,D
+400114,PA,18,Yea,"Rep. Michael Doyle [D, 2019-2022]",Democrat,Mike Doyle D-PA,usrepmikedoyle,PA,D
+400124,CA,18,Yea,"Rep. Anna Eshoo [D, 2013-2022]",Democrat,Anna Eshoo D-CA,repannaeshoo,CA,D
+400157,TX,12,Nay,"Rep. Kay Granger [R, 1997-2024]",Republican,"Granger, Kay",repkaygranger,TX,R
+400158,MO,6,Nay,"Rep. Sam Graves [R, 2001-2024]",Republican,"Graves, Sam",repsamgraves,MO,R
+400162,AZ,3,Yea,"Rep. Raúl Grijalva [D, 2013-2022]",Democrat,"Grijalva, Raul",repraulgrijalva,AZ,D
+400189,MD,5,Yea,"Rep. Steny Hoyer [D, 1981-2024]",Democrat,"Hoyer, Steny",repstenyhoyer,MD,D
+400196,CA,50,Nay,"Rep. Darrell Issa [R, 2021-2022]",Republican,"Issa, Darrell",repdarrellissa,CA,R
+400199,TX,18,Yea,"Rep. Sheila Jackson Lee [D, 1995-2024]",Democrat,"Jackson Lee, Sheila",jacksonleetx18,TX,D
+400204,TX,30,Yea,"Rep. Eddie Bernice Johnson [D, 1993-2022]",Democrat,E.B. Johnson D-TX,repebj,TX,D
+400211,OH,9,Yea,"Rep. Marcy Kaptur [D, 1983-2024]",Democrat,"Kaptur, Marcy",repmarcykaptur,OH,D
+400218,WI,3,Yea,"Rep. Ron Kind [D, 1997-2022]",Democrat,Ron Kind D-WI,repronkind,WI,D
+400230,RI,2,Yea,"Rep. James “Jim” Langevin [D, 2001-2022]",Democrat,,,,
+400232,WA,2,Yea,"Rep. Rick Larsen [D, 2001-2024]",Democrat,"Larsen, Rick",repricklarsen,WA,D
+400233,CT,1,Yea,"Rep. John Larson [D, 1999-2024]",Democrat,John Larson D-CT,repjohnlarson,CT,D
+400237,CA,13,Yea,"Rep. Barbara Lee [D, 2013-2022]",Democrat,Barbara Lee D-CA,repbarbaralee,CA,D
+400245,CA,19,Yea,"Rep. Zoe Lofgren [D, 2013-2022]",Democrat,"Lofgren, Zoe",repzoelofgren,CA,D
+400247,OK,3,Nay,"Rep. Frank Lucas [R, 2003-2024]",Republican,Frank Lucas R-OK,repfranklucas,OK,R
+400249,MA,8,Yea,"Rep. Stephen Lynch [D, 2013-2024]",Democrat,"Lynch, Stephen ",repstephenlynch,MA,D
+400251,NY,12,Yea,"Rep. Carolyn Maloney [D, 2013-2022]",Democrat,Carolyn Maloney D-NY,repmaloney,NY,D
+400259,MN,4,Yea,"Rep. Betty McCollum [D, 2001-2024]",Democrat,"McCollum, Betty",bettymccollum04,MN,D
+400263,MA,2,Yea,"Rep. James “Jim” McGovern [D, 2013-2024]",Democrat,Jim McGovern D-MA,repmcgovern,MA,D
+400271,NY,5,Yea,"Rep. Gregory Meeks [D, 2013-2024]",Democrat,Gregory Meeks D-NY,repgregorymeeks,NY,D
+400289,NY,10,Yea,"Rep. Jerrold Nadler [D, 2013-2022]",Democrat,Jerry Nadler D-NY,repjerrynadler,NY,D
+400290,CA,32,Yea,"Rep. Grace Napolitano [D, 2013-2022]",Democrat,"Napolitano, Grace",gracenapolitano,CA,D
+400291,MA,1,Yea,"Rep. Richard Neal [D, 2013-2024]",Democrat,"Neal, Richard ",reprichardneal,MA,D
+400297,CA,22,Nay,"Rep. Devin Nunes [R, 2013-2021]",Republican,Devin Nunes R-CA,repdevinnunes,CA,R
+400308,NJ,6,Yea,"Rep. Frank Pallone [D, 1993-2024]",Democrat,"Pallone Jr., Frank",frankpallone,NJ,D
+400309,NJ,9,Yea,"Rep. Bill Pascrell [D, 2013-2024]",Democrat,"Pascrell Jr., Bill",billpascrell,NJ,D
+400326,NC,4,Yea,"Rep. David Price [D, 1997-2022]",Democrat,David Price D-NC,repdavideprice,NC,D
+400340,KY,5,Nay,"Rep. Harold “Hal” Rogers [R, 1981-2024]",Republican,Hal Rogers R-KY,rephalrogers,KY,R
+400341,AL,3,Nay,"Rep. Mike Rogers [R, 2003-2024]",Republican,Mike Rogers R-AL,repmikerogersal,AL,R
+400347,CA,40,Yea,"Rep. Lucille Roybal-Allard [D, 2013-2022]",Democrat,Lucille Roybal-Allard D-CA,reproybalallard,CA,D
+400349,MD,2,Yea,"Rep. A. Dutch Ruppersberger [D, 2003-2024]",Democrat,"Ruppersberger, C. A. Dutch",call_me_dutch,MD,D
+400350,IL,1,Yea,"Rep. Bobby Rush [D, 1993-2022]",Democrat,Bobby Rush D-IL,repbobbyrush,IL,D
+400352,OH,13,Yea,"Rep. Tim Ryan [D, 2013-2022]",Democrat,Tim Ryan D-OH,reptimryan,OH,D
+400355,CA,38,Yea,"Rep. Linda Sánchez [D, 2013-2024]",Democrat,"Sánchez, Linda",replindasanchez,CA,D
+400360,IL,9,Yea,"Rep. Janice “Jan” Schakowsky [D, 1999-2024]",Democrat,Jan Schakowsky D-IL,repschakowsky,IL,D
+400361,CA,28,Yea,"Rep. Adam Schiff [D, 2013-2022]",Democrat,Adam Schiff D-CA,repadamschiff,CA,D
+400363,GA,13,Yea,"Rep. David Scott [D, 2003-2024]",Democrat,David Scott D-GA,repdavidscott,GA,D
+400364,VA,3,Yea,"Rep. Robert “Bobby” Scott [D, 1993-2024]",Democrat,"Scott, Bobby",bobbyscott,VA,D
+400367,TX,17,Nay,"Rep. Pete Sessions [R, 2021-2024]",Republican,"Sessions, Pete",petesessions,TX,R
+400371,CA,30,Yea,"Rep. Brad Sherman [D, 2013-2022]",Democrat,"Sherman, Brad",bradsherman,CA,D
+400376,ID,2,Nay,"Rep. Michael “Mike” Simpson [R, 1999-2024]",Republican,"Simpson, Mike",congmikesimpson,ID,R
+400379,WA,9,Yea,"Rep. Adam Smith [D, 1997-2024]",Democrat,Adam Smith D-WA,repadamsmith,WA,D
+400380,NJ,4,Nay,"Rep. Christopher “Chris” Smith [R, 1981-2024]",Republican,Chris Smith R-NJ,repchrissmith,NJ,R
+400402,MS,2,Yea,"Rep. Bennie Thompson [D, 1993-2024]",Democrat,"Thompson, Bennie ",benniegthompson,MS,D
+400403,CA,5,Yea,"Rep. Mike Thompson [D, 2013-2022]",Democrat,Mike Thompson D-CA,repthompson,CA,D
+400411,OH,10,Nay,"Rep. Michael Turner [R, 2013-2024]",Republican,Mike Turner R-OH,repmiketurner,OH,R
+400414,MI,6,Nay,"Rep. Fred Upton [R, 1993-2022]",Republican,Fred Upton R-MI,repfredupton,MI,R
+400416,NY,7,Yea,"Rep. Nydia Velázquez [D, 2013-2024]",Democrat,"Velázquez, Nydia ",nydiavelazquez,NY,D
+400422,CA,43,Yea,"Rep. Maxine Waters [D, 2013-2024]",Democrat,Maxine Waters D-CA,repmaxinewaters,CA,D
+400433,SC,2,Nay,"Rep. Joe Wilson [R, 2001-2024]",Republican,Joe Wilson R-SC,repjoewilson,SC,R
+400440,AK,0,Yea,"Rep. Don Young [R, 1973-2022]",Republican,Don Young R-AK,repdonyoung,AK,R
+400616,NC,1,Yea,"Rep. George “G.K.” Butterfield [D, 2004-2022]",Democrat,,,,
+400618,CA,16,Yea,"Rep. Jim Costa [D, 2013-2022]",Democrat,"Costa, Jim",repjimcosta,CA,D
+400623,FL,23,Yea,"Rep. Debbie Wasserman Schultz [D, 2013-2022]",Democrat,Debbie Wasserman Schultz D-FL,repdwstweets,FL,D
+400639,MO,5,Yea,"Rep. Emanuel Cleaver [D, 2005-2024]",Democrat,"Cleaver, Emanuel",repcleaver,MO,D
+400640,NE,1,Nay,"Rep. Jeff Fortenberry [R, 2005-2022]",Republican,,,,
+400641,NY,26,Yea,"Rep. Brian Higgins [D, 2013-2024]",Democrat,,,,
+400643,NC,5,Nay,"Rep. Virginia Foxx [R, 2005-2024]",Republican,"Foxx, Virginia",virginiafoxx,NC,R
+400644,NC,10,Nay,"Rep. Patrick McHenry [R, 2005-2024]",Republican,"McHenry, Patrick ",patrickmchenry,NC,R
+400651,TX,1,Nay,"Rep. Louie Gohmert [R, 2005-2022]",Republican,Louie Gohmert R-TX,replouiegohmert,TX,R
+400653,TX,9,Yea,"Rep. Al Green [D, 2005-2024]",Democrat,Al Green D-TX,repalgreen,TX,D
+400654,TX,10,Nay,"Rep. Michael McCaul [R, 2005-2024]",Republican,"McCaul, Michael ",repmccaul,TX,R
+400657,TX,28,Yea,"Rep. Henry Cuellar [D, 2005-2024]",Democrat,"Cuellar, Henry",repcuellar,TX,D
+400659,WA,5,Not Voting,"Rep. Cathy Anne McMorris Rodgers [R, 2005-2024]",Republican,"Rodgers, Cathy McMorris",cathymcmorris,WA,R
+400661,WI,4,Yea,"Rep. Gwen Moore [D, 2005-2024]",Democrat,Gwen Moore D-WI,repgwenmoore,WI,D
+400663,CA,6,Yea,"Rep. Doris Matsui [D, 2013-2022]",Democrat,"Matsui, Doris ",dorismatsui,CA,D
+407672,MD,7,Yea,"Rep. Kweisi Mfume [D, 2020-2024]",Democrat,"Mfume, Kweisi",repkweisimfume,MD,D
+412186,NJ,8,Yea,"Rep. Albio Sires [D, 2013-2022]",Democrat,Albio Sires D-NJ,repsires,NJ,D
+412189,CA,9,Yea,"Rep. Jerry McNerney [D, 2013-2022]",Democrat,Jerry McNerney D-CA,repmcnerney,CA,D
+412190,CA,23,Nay,"Rep. Kevin McCarthy [R, 2013-2022]",Republican,"McCarthy, Kevin",speakermccarthy,CA,R
+412191,CO,5,Nay,"Rep. Doug Lamborn [R, 2007-2024]",Republican,Doug Lamborn R-CO,repdlamborn,CO,R
+412192,CO,7,Yea,"Rep. Ed Perlmutter [D, 2007-2022]",Democrat,Ed Perlmutter D-CO,repperlmutter,CO,D
+412193,CT,2,Yea,"Rep. Joe Courtney [D, 2007-2024]",Democrat,"Courtney, Joe",repjoecourtney,CT,D
+412195,FL,14,Yea,"Rep. Kathy Castor [D, 2013-2024]",Democrat,"Castor, Kathy",usrepkcastor,FL,D
+412196,FL,16,Nay,"Rep. Vern Buchanan [R, 2013-2024]",Republican,"Buchanan, Vern",vernbuchanan,FL,R
+412199,GA,4,Yea,"Rep. Henry C. “Hank” Johnson [D, 2007-2024]",Democrat,"Johnson, Henry C. ""Hank"" Jr.",rephankjohnson,GA,D
+412211,KY,3,Yea,"Rep. John Yarmuth [D, 2007-2022]",Democrat,John Yarmuth D-KY,repjohnyarmuth,KY,D
+412212,MD,3,Yea,"Rep. John Sarbanes [D, 2007-2024]",Democrat,John Sarbanes D-MD,repsarbanes,MD,D
+412213,MI,7,Nay,"Rep. Tim Walberg [R, 2011-2022]",Republican,Tim Walberg R-MI,repwalberg,MI,R
+412217,NE,3,Nay,"Rep. Adrian Smith [R, 2007-2024]",Republican,Adrian Smith R-NE,repadriansmith,NE,R
+412221,NY,9,Yea,"Rep. Yvette Clarke [D, 2013-2024]",Democrat,"Clarke, Yvette ",repyvetteclarke,NY,D
+412226,OH,4,Nay,"Rep. Jim Jordan [R, 2007-2024]",Republican,"Jordan, Jim",jim_jordan,OH,R
+412236,TN,9,Yea,"Rep. Steve Cohen [D, 2007-2024]",Democrat,"Cohen, Steve",repcohen,TN,D
+412239,VT,0,Yea,"Rep. Peter Welch [D, 2007-2022]",Democrat,,,,
+412250,FL,12,Nay,"Rep. Gus Bilirakis [R, 2013-2024]",Republican,"Bilirakis, Gus ",repgusbilirakis,FL,R
+412255,VA,1,Nay,"Rep. Robert Wittman [R, 2007-2024]",Republican,"Wittman, Robert ",robwittman,VA,R
+412256,OH,5,Nay,"Rep. Robert Latta [R, 2007-2024]",Republican,"Latta, Robert ",boblatta,OH,R
+412257,IL,11,Yea,"Rep. Bill Foster [D, 2013-2024]",Democrat,Bill Foster D-IL,repbillfoster,IL,D
+412258,IN,7,Yea,"Rep. André Carson [D, 2008-2024]",Democrat,Andre Carson D-IN,repandrecarson,IN,D
+412259,CA,14,Yea,"Rep. Jackie Speier [D, 2013-2022]",Democrat,Jackie Speier D-CA,repspeier,CA,D
+412261,LA,1,Nay,"Rep. Steve Scalise [R, 2008-2024]",Republican,"Scalise, Steve",stevescalise,LA,R
+412272,VA,11,Yea,"Rep. Gerald Connolly [D, 2009-2024]",Democrat,"Connolly, Gerald E. ""Gerry""",gerryconnolly,VA,D
+412278,KY,2,Nay,"Rep. Brett Guthrie [R, 2009-2024]",Republican,Brett Guthrie R-KY,repguthrie,KY,R
+412282,CT,4,Yea,"Rep. James “Jim” Himes [D, 2009-2024]",Democrat,"Himes, Jim",jahimes,CT,D
+412286,AZ,2,Yea,"Rep. Ann Kirkpatrick [D, 2019-2022]",Democrat,Ann Kirkpatrick D-AZ,repkirkpatrick,AZ,D
+412292,MO,3,Nay,"Rep. Blaine Luetkemeyer [R, 2013-2024]",Republican,Blaine Luetkemeyer R-MO,repblaine,MO,R
+412295,CA,4,Nay,"Rep. Tom McClintock [R, 2009-2022]",Republican,"McClintock, Tom",repmcclintock,CA,R
+412307,ME,1,Yea,"Rep. Chellie Pingree [D, 2009-2024]",Democrat,"Pingree, Chellie",chelliepingree,ME,D
+412309,FL,8,Nay,"Rep. Bill Posey [R, 2013-2024]",Republican,"Posey, Bill",congbillposey,FL,R
+412315,OR,5,Yea,"Rep. Kurt Schrader [D, 2009-2022]",Democrat,Kurt Schrader D-OR,repschrader,OR,D
+412317,PA,15,Nay,"Rep. Glenn Thompson [R, 2019-2024]",Republican,"Thompson, Glenn",congressmangt,PA,R
+412318,NV,1,Yea,"Rep. Dina Titus [D, 2013-2024]",Democrat,Dina Titus D-NV,repdinatitus,NV,D
+412319,NY,20,Yea,"Rep. Paul Tonko [D, 2013-2024]",Democrat,Paul Tonko D-NY,reppaultonko,NY,D
+412331,IL,5,Yea,"Rep. Mike Quigley [D, 2009-2024]",Democrat,Mike Quigley D-IL,repmikequigley,IL,D
+412379,CA,27,Yea,"Rep. Judy Chu [D, 2013-2022]",Democrat,"Chu, Judy",repjudychu,CA,D
+412382,CA,3,Yea,"Rep. John Garamendi [D, 2013-2022]",Democrat,"Garamendi, John",repgaramendi,CA,D
+412385,FL,22,Yea,"Rep. Theodore “Ted” Deutch [D, 2017-2022]",Democrat,Ted Deutch D-FL,repteddeutch,FL,D
+412393,NY,23,Nay,"Rep. Tom Reed [R, 2013-2022]",Republican,Tom Reed R-NY,reptomreed,NY,R
+412395,AL,5,Nay,"Rep. Mo Brooks [R, 2011-2022]",Republican,Mo Brooks R-AL,repmobrooks,AL,R
+412396,AL,7,Yea,"Rep. Terri Sewell [D, 2011-2024]",Democrat,"Sewell, Terri A.",repterrisewell,AL,D
+412397,AZ,4,Nay,"Rep. Paul Gosar [R, 2013-2022]",Republican,"Gosar, Paul ",repgosar,AZ,R
+412399,AZ,6,Nay,"Rep. David Schweikert [R, 2013-2022]",Republican,David Schweikert R-AZ,repdavid,AZ,R
+412400,AR,1,Nay,"Rep. Eric “Rick” Crawford [R, 2011-2024]",Republican,"Crawford, Rick",reprickcrawford,AR,R
+412402,AR,3,Nay,"Rep. Steve Womack [R, 2011-2024]",Republican,Steve Womack R-AR,rep_stevewomack,AR,R
+412404,CA,37,Not Voting,"Rep. Karen Bass [D, 2013-2022]",Democrat,Karen Bass D-CA,repkarenbass,CA,D
+412410,FL,11,Nay,"Rep. Daniel Webster [R, 2017-2024]",Republican,Daniel Webster R-FL,repwebster,FL,R
+412412,FL,24,Yea,"Rep. Frederica Wilson [D, 2013-2024]",Democrat,Frederica Wilson D-FL,repwilson,FL,D
+412417,GA,8,Nay,"Rep. Austin Scott [R, 2011-2024]",Republican,"Scott, Austin",austinscottga08,GA,R
+412421,IL,16,Nay,"Rep. Adam Kinzinger [R, 2013-2022]",Republican,Adam Kinzinger R-IL,repkinzinger,IL,R
+412427,IN,8,Nay,"Rep. Larry Bucshon [R, 2011-2024]",Republican,"Bucshon, Larry",replarrybucshon,IN,R
+412434,MD,1,Nay,"Rep. Andy Harris [R, 2011-2024]",Republican,Andy Harris R-MD,repandyharrismd,MD,R
+412435,MA,9,Yea,"Rep. William R. Keating [D, 2013-2024]",Democrat,"Keating, William",usrepkeating,MA,D
+412437,MI,2,Nay,"Rep. Bill Huizenga [R, 2011-2022]",Republican,Bill Huizenga R-MI,rephuizenga,MI,R
+412443,MS,4,Nay,"Rep. Steven Palazzo [R, 2011-2022]",Republican,,,,
+412444,MO,4,Nay,"Rep. Vicky Hartzler [R, 2011-2022]",Republican,Vicky Hartzler R-MO,rephartzler,MO,R
+412445,MO,7,Nay,"Rep. Billy Long [R, 2011-2022]",Republican,Billy Long R-MO,usreplong,MO,R
+412460,OH,6,Nay,"Rep. Bill Johnson [R, 2011-2024]",Republican,Bill Johnson R-OH,repbilljohnson,OH,R
+412463,OH,7,Nay,"Rep. Bob Gibbs [R, 2013-2022]",Republican,Bob Gibbs R-OH,repbobgibbs,OH,R
+412465,PA,16,Nay,"Rep. Mike Kelly [R, 2019-2024]",Republican,"Kelly, Mike",mikekellypa,PA,R
+412470,RI,1,Yea,"Rep. David Cicilline [D, 2011-2023]",Democrat,,,,
+412472,SC,3,Nay,"Rep. Jeff Duncan [R, 2011-2024]",Republican,"Duncan, Jeff",repjeffduncan,SC,R
+412476,TN,3,Nay,"Rep. Charles “Chuck” Fleischmann [R, 2011-2024]",Republican,Chuck Fleischmann R-TN,repchuck,TN,R
+412477,TN,4,Nay,"Rep. Scott DesJarlais [R, 2011-2024]",Republican,"DesJarlais, Scott",desjarlaistn04,TN,R
+412485,VA,9,Nay,"Rep. Morgan Griffith [R, 2011-2024]",Republican,"Griffith, Morgan",repmgriffith,VA,R
+412486,WA,3,Nay,"Rep. Jaime Herrera Beutler [R, 2011-2022]",Republican,,,,
+412487,WV,1,Nay,"Rep. David McKinley [R, 2011-2022]",Republican,David McKinley R-WV,repmckinley,WV,R
+412500,NV,2,Nay,"Rep. Mark Amodei [R, 2011-2024]",Republican,"Amodei, Mark",markamodeinv2,NV,R
+412501,OR,1,Yea,"Rep. Suzanne Bonamici [D, 2012-2024]",Democrat,"Bonamici, Suzanne",repbonamici,OR,D
+412503,KY,4,Nay,"Rep. Thomas Massie [R, 2012-2024]",Republican,"Massie, Thomas",repthomasmassie,KY,R
+412505,WA,1,Yea,"Rep. Suzan DelBene [D, 2012-2024]",Democrat,"DelBene, Suzan",repdelbene,WA,D
+412506,NJ,10,Yea,"Rep. Donald Payne Jr. [D, 2012-2024]",Democrat,"Pallone Jr., Frank",frankpallone,NJ,D
+412510,CA,1,Nay,"Rep. Doug LaMalfa [R, 2013-2024]",Republican,Doug LaMalfa R-CA,replamalfa,CA,R
+412511,CA,2,Yea,"Rep. Jared Huffman [D, 2013-2024]",Democrat,"Huffman, Jared",rephuffman,CA,D
+412512,CA,7,Yea,"Rep. Ami Bera [D, 2013-2022]",Democrat,Ami Bera D-CA,repbera,CA,D
+412514,CA,15,Yea,"Rep. Eric Swalwell [D, 2013-2022]",Democrat,Eric Swalwell D-CA,repswalwell,CA,D
+412515,CA,21,Nay,"Rep. David Valadao [R, 2021-2022]",Republican,David Valadao R-CA,repdavidvaladao,CA,R
+412516,CA,26,Yea,"Rep. Julia Brownley [D, 2013-2024]",Democrat,"Brownley, Julia",repbrownley,CA,D
+412517,CA,29,Yea,"Rep. Tony Cárdenas [D, 2013-2024]",Democrat,"Cardenas, Tony",repcardenas,CA,D
+412519,CA,36,Yea,"Rep. Raul Ruiz [D, 2013-2022]",Democrat,Raul Ruiz D-CA,repraulruizmd,CA,D
+412520,CA,41,Yea,"Rep. Mark Takano [D, 2013-2022]",Democrat,Mark Takano D-CA,repmarktakano,CA,D
+412521,CA,47,Yea,"Rep. Alan Lowenthal [D, 2013-2022]",Democrat,Alan Lowenthal D-CA,replowenthal,CA,D
+412522,CA,51,Yea,"Rep. Juan Vargas [D, 2013-2022]",Democrat,Juan Vargas D-CA,repjuanvargas,CA,D
+412523,CA,52,Yea,"Rep. Scott Peters [D, 2013-2022]",Democrat,"Peters, Scott",repscottpeters,CA,D
+412529,FL,21,Yea,"Rep. Lois Frankel [D, 2017-2022]",Democrat,"Frankel, Lois",reploisfrankel,FL,D
+412534,IL,10,Yea,"Rep. Bradley “Brad” Schneider [D, 2017-2024]",Democrat,Brad Schneider D-IL,repschneider,IL,D
+412536,IL,13,Nay,"Rep. Rodney Davis [R, 2013-2022]",Republican,,,,
+412537,IL,17,Yea,"Rep. Cheri Bustos [D, 2013-2022]",Democrat,Cheri Bustos D-IL,repcheri,IL,D
+412538,IN,2,Nay,"Rep. Jackie Walorski [R, 2013-2022]",Republican,Jackie Walorski R-IN,repwalorski,IN,R
+412541,KY,6,Nay,"Rep. Garland “Andy” Barr [R, 2013-2024]",Republican,Andy Barr R-KY,repandybarr,KY,R
+412546,MI,5,Yea,"Rep. Daniel Kildee [D, 2013-2022]",Democrat,Dan Kildee D-MI,repdankildee,MI,D
+412548,MO,2,Nay,"Rep. Ann Wagner [R, 2013-2024]",Republican,Ann Wagner R-MO,repannwagner,MO,R
+412550,NC,8,Nay,"Rep. Richard Hudson [R, 2013-2022]",Republican,"Hudson, Richard",reprichhudson,NC,R
+412557,NH,2,Yea,"Rep. Ann Kuster [D, 2013-2024]",Democrat,Annie Kuster D-NH,repanniekuster,NH,D
+412559,NV,4,Yea,"Rep. Steven Horsford [D, 2019-2024]",Democrat,"Horsford, Steven",rephorsford,NV,D
+412560,NY,6,Yea,"Rep. Grace Meng [D, 2013-2024]",Democrat,Grace Meng D-NY,repgracemeng,NY,D
+412561,NY,8,Yea,"Rep. Hakeem Jeffries [D, 2013-2024]",Democrat,Hakeem Jeffries D-NY,repjeffries,NY,D
+412562,NY,18,Yea,"Rep. Sean Maloney [D, 2013-2022]",Democrat,Carolyn Maloney D-NY,repmaloney,NY,D
+412564,OH,2,Nay,"Rep. Brad Wenstrup [R, 2013-2024]",Republican,Brad Wenstrup R-OH,repbradwenstrup,OH,R
+412565,OH,3,Yea,"Rep. Joyce Beatty [D, 2013-2024]",Democrat,"Beatty, Joyce",repbeatty,OH,D
+412566,OH,14,Nay,"Rep. David Joyce [R, 2013-2024]",Republican,David Joyce R-OH,repdavejoyce,OH,R
+412568,OK,2,Nay,"Rep. Markwayne Mullin [R, 2013-2022]",Republican,Markwayne Mullin R-OK,repmullin,OK,R
+412569,PA,10,Nay,"Rep. Scott Perry [R, 2019-2024]",Republican,"Perry, Scott",repscottperry,PA,R
+412571,PA,8,Yea,"Rep. Matthew “Matt” Cartwright [D, 2019-2024]",Democrat,"Cartwright, Matt",repcartwright,PA,D
+412572,SC,7,Nay,"Rep. Tom Rice [R, 2013-2022]",Republican,Tom Rice R-SC,reptomrice,SC,R
+412574,TX,14,Nay,"Rep. Randy Weber [R, 2013-2024]",Republican,"Weber, Randy",txrandy14,TX,R
+412576,TX,20,Yea,"Rep. Joaquin Castro [D, 2013-2024]",Democrat,"Castro, Joaquin",joaquincastrotx,TX,D
+412578,TX,25,Nay,"Rep. Roger Williams [R, 2013-2024]",Republican,Roger Williams R-TX,reprwilliams,TX,R
+412579,TX,33,Yea,"Rep. Marc Veasey [D, 2013-2024]",Democrat,Marc Veasey D-TX,repveasey,TX,D
+412580,TX,34,Yea,"Rep. Filemon Vela [D, 2013-2022]",Democrat,Filemon Vela D-TX,repfilemonvela,TX,D
+412581,UT,2,Nay,"Rep. Chris Stewart [R, 2013-2023]",Republican,Chris Stewart R-UT,repchrisstewart,UT,R
+412583,WA,6,Yea,"Rep. Derek Kilmer [D, 2013-2024]",Democrat,Derek Kilmer D-WA,repderekkilmer,WA,D
+412585,WI,2,Yea,"Rep. Mark Pocan [D, 2013-2024]",Democrat,Mark Pocan D-WI,repmarkpocan,WI,D
+412595,IL,2,Yea,"Rep. Robin Kelly [D, 2013-2024]",Democrat,"Kelly, Robin",reprobinkelly,IL,D
+412596,MO,8,Nay,"Rep. Jason Smith [R, 2013-2024]",Republican,Jason Smith R-MO,repjasonsmith,MO,R
+412600,MA,5,Yea,"Rep. Katherine Clark [D, 2013-2024]",Democrat,Katherine Clark D-MA,repkclark,MA,D
+412606,NJ,1,Yea,"Rep. Donald Norcross [D, 2014-2024]",Democrat,"Norcross, Donald",donaldnorcross,NJ,D
+412607,NC,12,Yea,"Rep. Alma Adams [D, 2014-2024]",Democrat,"Adams, Alma",repadams,NC,D
+412608,AL,6,Nay,"Rep. Gary Palmer [R, 2015-2024]",Republican,Gary Palmer R-AL,usrepgarypalmer,AL,R
+412609,AR,2,Nay,"Rep. French Hill [R, 2015-2024]",Republican,French Hill R-AR,repfrenchhill,AR,R
+412610,AR,4,Nay,"Rep. Bruce Westerman [R, 2015-2024]",Republican,Bruce Westerman R-AR,repwesterman,AR,R
+412612,AZ,7,Yea,"Rep. Ruben Gallego [D, 2015-2022]",Democrat,"Gallego, Ruben",reprubengallego,AZ,D
+412613,CA,11,Yea,"Rep. Mark DeSaulnier [D, 2015-2022]",Democrat,"DeSaulnier, Mark",repdesaulnier,CA,D
+412615,CA,31,Yea,"Rep. Pete Aguilar [D, 2015-2022]",Democrat,"Aguilar, Pete",reppeteaguilar,CA,D
+412616,CA,33,Yea,"Rep. Ted Lieu [D, 2015-2022]",Democrat,"Lieu, Ted",reptedlieu,CA,D
+412617,CA,35,Yea,"Rep. Norma Torres [D, 2015-2024]",Democrat,"Torres, Norma",normajtorres,CA,D
+412619,CO,4,Nay,"Rep. Ken Buck [R, 2015-2024]",Republican,"Buck, Ken",repkenbuck,CO,R
+412622,GA,1,Not Voting,"Rep. Earl “Buddy” Carter [R, 2015-2024]",Republican,Buddy Carter R-GA,repbuddycarter,GA,R
+412623,GA,10,Nay,"Rep. Jody Hice [R, 2015-2022]",Republican,,,,
+412624,GA,11,Nay,"Rep. Barry Loudermilk [R, 2015-2024]",Republican,Barry Loudermilk R-GA,reploudermilk,GA,R
+412625,GA,12,Nay,"Rep. Rick Allen [R, 2015-2024]",Republican,"Allen, Rick",reprickallen,GA,R
+412629,IL,12,Nay,"Rep. Mike Bost [R, 2015-2024]",Republican,"Bost, Mike",repbost,IL,R
+412631,LA,6,Nay,"Rep. Garret Graves [R, 2015-2024]",Republican,Garret Graves R-LA,repgarretgraves,LA,R
+412632,MA,6,Yea,"Rep. Seth Moulton [D, 2015-2024]",Democrat,"Moulton, Seth",teammoulton,MA,D
+412634,MI,4,Nay,"Rep. John Moolenaar [R, 2015-2022]",Republican,John Moolenaar R-MI,repmoolenaar,MI,R
+412637,MI,12,Yea,"Rep. Debbie Dingell [D, 2015-2022]",Democrat,Debbie Dingell D-MI,repdebdingell,MI,D
+412638,MI,14,Yea,"Rep. Brenda Lawrence [D, 2015-2022]",Democrat,Brenda Lawrence D-MI,replawrence,MI,D
+412639,MN,6,Nay,"Rep. Tom Emmer [R, 2015-2024]",Republican,Tom Emmer R-MN,reptomemmer,MN,R
+412641,NC,7,Nay,"Rep. David Rouzer [R, 2015-2024]",Republican,David Rouzer R-NC,repdavidrouzer,NC,R
+412644,NJ,12,Yea,"Rep. Bonnie Watson Coleman [D, 2015-2024]",Democrat,Bonnie Coleman D-NJ,repbonnie,NJ,D
+412646,NY,1,Nay,"Rep. Lee Zeldin [R, 2015-2022]",Republican,Lee Zeldin R-NY,repleezeldin,NY,R
+412647,NY,4,Yea,"Rep. Kathleen Rice [D, 2015-2022]",Democrat,Kathleen Rice D-NY,repkathleenrice,NY,D
+412648,NY,21,Nay,"Rep. Elise Stefanik [R, 2015-2024]",Republican,Elise Stefanik R-NY,repstefanik,NY,R
+412649,NY,24,Nay,"Rep. John Katko [R, 2015-2022]",Republican,John Katko R-NY,repjohnkatko,NY,R
+412652,PA,2,Yea,"Rep. Brendan Boyle [D, 2019-2024]",Democrat,"Boyle, Brendan",congboyle,PA,D
+412655,TX,36,Nay,"Rep. Brian Babin [R, 2015-2024]",Republican,"Babin, Brian",repbrianbabin,TX,R
+412657,VA,8,Yea,"Rep. Donald Beyer [D, 2015-2024]",Democrat,"Beyer, Don",repdonbeyer,VA,D
+412660,WA,4,Nay,"Rep. Dan Newhouse [R, 2015-2024]",Republican,Dan Newhouse R-WA,repnewhouse,WA,R
+412661,WI,6,Nay,"Rep. Glenn Grothman [R, 2015-2024]",Republican,Glenn Grothman R-WI,repgrothman,WI,R
+412662,WV,2,Nay,"Rep. Alexander Mooney [R, 2015-2024]",Republican,Alex Mooney R-WV,repalexmooney,WV,R
+412673,MS,1,Nay,"Rep. Trent Kelly [R, 2015-2024]",Republican,"Kelly, Trent",reptrentkelly,MS,R
+412674,IL,18,Nay,"Rep. Darin LaHood [R, 2015-2022]",Republican,Darin LaHood R-IL,replahood,IL,R
+412675,OH,8,Nay,"Rep. Warren Davidson [R, 2016-2024]",Republican,"Davidson, Warren",warrendavidson,OH,R
+412676,KY,1,Nay,"Rep. James Comer [R, 2016-2024]",Republican,"Comer, James",repjamescomer,KY,R
+412677,PA,3,Yea,"Rep. Dwight Evans [D, 2019-2024]",Democrat,Dwight Evans D-PA,repdwightevans,PA,D
+412682,AZ,1,Yea,"Rep. Tom O’Halleran [D, 2017-2022]",Democrat,Tom O'Halleran D-AZ,repohalleran,AZ,D
+412683,AZ,5,Nay,"Rep. Andy Biggs [R, 2017-2024]",Republican,Andy Biggs R-AZ,repandybiggsaz,AZ,R
+412684,CA,17,Yea,"Rep. Ro Khanna [D, 2017-2024]",Democrat,"Khanna, Ro",reprokhanna,CA,D
+412685,CA,20,Yea,"Rep. Jimmy Panetta [D, 2017-2022]",Democrat,Jimmy Panetta D-CA,repjimmypanetta,CA,D
+412686,CA,24,Yea,"Rep. Salud Carbajal [D, 2017-2024]",Democrat,"Carbajal, Salud",repcarbajal,CA,D
+412687,CA,44,Yea,"Rep. Nanette Barragán [D, 2017-2024]",Democrat,"Barragán, Nanette",repbarragan,CA,D
+412688,CA,46,Yea,"Rep. Luis Correa [D, 2017-2024]",Democrat,"Correa, J. Luis",reploucorrea,CA,D
+412689,DE,0,Yea,"Rep. Lisa Blunt Rochester [D, 2017-2024]",Democrat,"Blunt Rochester, Lisa",replbr,DE,D
+412690,FL,1,Nay,"Rep. Matt Gaetz [R, 2017-2024]",Republican,"Gaetz, Matt",repmattgaetz,FL,R
+412691,FL,2,Nay,"Rep. Neal Dunn [R, 2017-2024]",Republican,"Dunn, Neal",drnealdunnfl2,FL,R
+412692,FL,4,Nay,"Rep. John Rutherford [R, 2017-2022]",Republican,John Rutherford R-FL,reprutherfordfl,FL,R
+412693,FL,5,Yea,"Rep. Al Lawson [D, 2017-2022]",Democrat,Al Lawson D-FL,repallawsonjr,FL,D
+412694,FL,7,Yea,"Rep. Stephanie Murphy [D, 2017-2022]",Democrat,Stephanie Murphy D-FL,repstephmurphy,FL,D
+412695,FL,9,Yea,"Rep. Darren Soto [D, 2017-2024]",Democrat,Darren Soto D-FL,repdarrensoto,FL,D
+412696,FL,10,Yea,"Rep. Val Demings [D, 2017-2022]",Democrat,Val Demings D-FL,repvaldemings,FL,D
+412697,FL,13,Yea,"Rep. Charlie Crist [D, 2017-2022]",Democrat,Charlie Crist D-FL,repcharliecrist,FL,D
+412698,FL,18,Nay,"Rep. Brian Mast [R, 2017-2022]",Republican,Brian Mast R-FL,repbrianmast,FL,R
+412700,GA,3,Nay,"Rep. Drew Ferguson [R, 2017-2024]",Republican,Drew Ferguson R-GA,repdrewferguson,GA,R
+412701,IL,8,Yea,"Rep. Raja Krishnamoorthi [D, 2017-2024]",Democrat,"Krishnamoorthi, Raja",congressmanraja,IL,D
+412702,IN,3,Nay,"Rep. Jim Banks [R, 2017-2024]",Republican,"Banks, Jim",repjimbanks,IN,R
+412703,IN,9,Nay,"Rep. Trey Hollingsworth [R, 2017-2022]",Republican,Trey Hollingsworth R-IN,reptrey,IN,R
+412705,LA,3,Not Voting,"Rep. Clay Higgins [R, 2017-2024]",Republican,Clay Higgins R-LA,repclayhiggins,LA,R
+412706,LA,4,Nay,"Rep. Mike Johnson [R, 2017-2024]",Republican,Mike Johnson R-LA,repmikejohnson,LA,R
+412707,MD,4,Yea,"Rep. Anthony Brown [D, 2017-2022]",Democrat,Anthony Brown D-MD,repanthonybrown,MD,D
+412708,MD,8,Yea,"Rep. Jamie Raskin [D, 2017-2024]",Democrat,Jamie Raskin D-MD,repraskin,MD,D
+412709,MI,1,Nay,"Rep. Jack Bergman [R, 2017-2024]",Republican,"Bergman, Jack",repjackbergman,MI,R
+412712,NC,13,Nay,"Rep. Ted Budd [R, 2017-2022]",Republican,"Budd, Ted",sentedbuddnc,NC,R
+412713,NE,2,Nay,"Rep. Don Bacon [R, 2017-2024]",Republican,"Bacon, Don",repdonbacon,NE,R
+412714,NJ,5,Yea,"Rep. Josh Gottheimer [D, 2017-2024]",Democrat,"Gottheimer, Josh",repjoshg,NJ,D
+412717,NY,3,Yea,"Rep. Thomas Suozzi [D, 2017-2022]",Democrat,Tom Suozzi D-NY,reptomsuozzi,NY,D
+412718,NY,13,Yea,"Rep. Adriano Espaillat [D, 2017-2024]",Democrat,Adriano Espaillat D-NY,repespaillat,NY,D
+412720,NY,22,Nay,"Rep. Claudia Tenney [R, 2021-2022]",Republican,Claudia Tenney R-NY,reptenney,NY,R
+412721,PA,1,Nay,"Rep. Brian Fitzpatrick [R, 2019-2024]",Republican,Brian Fitzpatrick R-PA,repbrianfitz,PA,R
+412722,PA,11,Nay,"Rep. Lloyd Smucker [R, 2019-2024]",Republican,Lloyd Smucker R-PA,repsmucker,PA,R
+412724,TN,8,Nay,"Rep. David Kustoff [R, 2017-2024]",Republican,David Kustoff R-TN,repdavidkustoff,TN,R
+412725,TX,15,Yea,"Rep. Vicente Gonzalez [D, 2017-2022]",Democrat,"Gonzalez, Vicente",repgonzalez,TX,D
+412726,TX,19,Nay,"Rep. Jodey Arrington [R, 2017-2024]",Republican,"Arrington, Jodey",reparrington,TX,R
+412728,VA,4,Yea,"Rep. Donald McEachin [D, 2017-2022]",Democrat,Donald McEachin D-VA,repmceachin,VA,D
+412730,WA,7,Yea,"Rep. Pramila Jayapal [D, 2017-2024]",Democrat,"Jayapal, Pramila",repjayapal,WA,D
+412731,WI,8,Nay,"Rep. Mike Gallagher [R, 2017-2024]",Republican,"Gallagher, Mike",repgallagher,WI,R
+412732,WY,0,Nay,"Rep. Liz Cheney [R, 2017-2022]",Republican,Liz Cheney R-WY,replizcheney,WY,R
+412735,KS,4,Nay,"Rep. Ron Estes [R, 2017-2024]",Republican,"Estes, Ron",repronestes,KS,R
+412738,SC,5,Nay,"Rep. Ralph Norman [R, 2017-2024]",Republican,"Norman, Ralph",repralphnorman,SC,R
+412739,CA,34,Yea,"Rep. Jimmy Gomez [D, 2017-2024]",Democrat,"Gomez, Jimmy",repjimmygomez,CA,D
+412740,UT,3,Nay,"Rep. John Curtis [R, 2017-2024]",Republican,"Curtis, John ",repjohncurtis,UT,R
+412744,PA,17,Yea,"Rep. Conor Lamb [D, 2019-2022]",Democrat,Conor Lamb D-PA,repconorlamb,PA,D
+412745,AZ,8,Nay,"Rep. Debbie Lesko [R, 2018-2024]",Republican,Debbie Lesko R-AZ,repdlesko,AZ,R
+412746,TX,27,Nay,"Rep. Michael Cloud [R, 2018-2024]",Republican,"Cloud, Michael",repcloudtx,TX,R
+412747,OH,12,Nay,"Rep. Troy Balderson [R, 2018-2024]",Republican,"Balderson, Troy",repbalderson,OH,R
+412748,OK,1,Nay,"Rep. Kevin Hern [R, 2018-2024]",Republican,"Hern, Kevin",repkevinhern,OK,R
+412749,NY,25,Yea,"Rep. Joseph Morelle [D, 2018-2024]",Democrat,Joe Morelle D-NY,repjoemorelle,NY,D
+412750,PA,5,Yea,"Rep. Mary Gay Scanlon [D, 2019-2024]",Democrat,Mary Scanlon D-PA,repmgs,PA,D
+412751,PA,7,Yea,"Rep. Susan Wild [D, 2019-2024]",Democrat,Susan Wild D-PA,repsusanwild,PA,D
+412753,AZ,9,Yea,"Rep. Greg Stanton [D, 2019-2022]",Democrat,Greg Stanton D-AZ,repgregstanton,AZ,D
+412754,CA,10,Yea,"Rep. Josh Harder [D, 2019-2022]",Democrat,"Harder, Josh",repjoshharder,CA,D
+412758,CA,45,Yea,"Rep. Katie Porter [D, 2019-2022]",Democrat,Katie Porter D-CA,repkatieporter,CA,D
+412760,CA,49,Yea,"Rep. Mike Levin [D, 2019-2024]",Democrat,"Levin, Mike",repmikelevin,CA,D
+412761,CO,2,Yea,"Rep. Joe Neguse [D, 2019-2024]",Democrat,Joe Neguse D-CO,repjoeneguse,CO,D
+412762,CO,6,Yea,"Rep. Jason Crow [D, 2019-2024]",Democrat,"Crow, Jason",repjasoncrow,CO,D
+412763,CT,5,Yea,"Rep. Jahana Hayes [D, 2019-2024]",Democrat,"Hayes, Jahana",repjahanahayes,CT,D
+412764,FL,6,Nay,"Rep. Michael Waltz [R, 2019-2024]",Republican,Michael Waltz R-FL,repmichaelwaltz,FL,R
+412766,FL,17,Nay,"Rep. Gregory Steube [R, 2019-2024]",Republican,Greg Steube R-FL,repgregsteube,FL,R
+412769,GA,6,Yea,"Rep. Lucy McBath [D, 2019-2022]",Democrat,Lucy McBath D-GA,replucymcbath,GA,D
+412772,IA,3,Yea,"Rep. Cynthia Axne [D, 2019-2022]",Democrat,Cindy Axne D-IA,repcindyaxne,IA,D
+412773,ID,1,Nay,"Rep. Russ Fulcher [R, 2019-2024]",Republican,"Fulcher, Russ",reprussfulcher,ID,R
+412774,IL,4,Yea,"Rep. Jesús “Chuy” García [D, 2019-2024]",Democrat,Chuy Garcia D-IL,repchuygarcia,IL,D
+412775,IL,6,Yea,"Rep. Sean Casten [D, 2019-2024]",Democrat,"Casten, Sean",repcasten,IL,D
+412776,IL,14,Yea,"Rep. Lauren Underwood [D, 2019-2024]",Democrat,Lauren Underwood D-IL,repunderwood,IL,D
+412777,IN,4,Nay,"Rep. James Baird [R, 2019-2024]",Republican,"Baird, Jim",repjimbaird,IN,R
+412778,IN,6,Nay,"Rep. Greg Pence [R, 2019-2024]",Republican,Greg Pence R-IN,repgregpence,IN,R
+412780,KS,3,Yea,"Rep. Sharice Davids [D, 2019-2024]",Democrat,"Davids, Sharice",repdavids,KS,D
+412781,MA,3,Yea,"Rep. Lori Trahan [D, 2019-2024]",Democrat,Lori Trahan D-MA,reploritrahan,MA,D
+412782,MA,7,Yea,"Rep. Ayanna Pressley [D, 2019-2024]",Democrat,Ayanna Pressley D-MA,reppressley,MA,D
+412783,MD,6,Yea,"Rep. David Trone [D, 2019-2024]",Democrat,David Trone D-MD,repdavidtrone,MD,D
+412784,MI,8,Yea,"Rep. Elissa Slotkin [D, 2019-2022]",Democrat,Elissa Slotkin D-MI,repslotkin,MI,D
+412785,MI,9,Yea,"Rep. Andy Levin [D, 2019-2022]",Democrat,Andy Levin D-MI,repandylevin,MI,D
+412786,MI,11,Yea,"Rep. Haley Stevens [D, 2019-2024]",Democrat,Haley Stevens D-MI,rephaleystevens,MI,D
+412787,MI,13,Nay,"Rep. Rashida Tlaib [D, 2019-2022]",Democrat,Rashida Tlaib D-MI,reprashida,MI,D
+412788,MN,1,Not Voting,"Rep. Jim Hagedorn [R, 2019-2022]",Republican,Jim Hagedorn R-MN,rephagedorn,MN,R
+412789,MN,2,Yea,"Rep. Angie Craig [D, 2019-2024]",Democrat,Angie Craig D-MN,repangiecraig,MN,D
+412790,MN,3,Yea,"Rep. Dean Phillips [D, 2019-2024]",Democrat,Dean Phillips D-MN,repdeanphillips,MN,D
+412791,MN,5,Yea,"Rep. Ilhan Omar [D, 2019-2024]",Democrat,Ilhan Omar D-MN,ilhan,MN,D
+412792,MN,8,Nay,"Rep. Pete Stauber [R, 2019-2024]",Republican,Pete Stauber R-MN,reppetestauber,MN,R
+412793,MS,3,Nay,"Rep. Michael Guest [R, 2019-2024]",Republican,"Guest, Michael",repmichaelguest,MS,R
+412794,ND,0,Nay,"Rep. Kelly Armstrong [R, 2019-2024]",Republican,"Armstrong, Kelly",reparmstrongnd,ND,R
+412795,NH,1,Yea,"Rep. Chris Pappas [D, 2019-2024]",Democrat,Chris Pappas D-NH,repchrispappas,NH,D
+412796,NJ,2,Nay,"Rep. Jefferson Van Drew [R, 2019-2024]",Republican,"Van Drew, Jefferson",congressman_jvd,NJ,R
+412797,NJ,3,Yea,"Rep. Andy Kim [D, 2019-2024]",Democrat,Andy Kim D-NJ,repandykimnj,NJ,D
+412798,NJ,7,Yea,"Rep. Tom Malinowski [D, 2019-2022]",Democrat,Tom Malinowski D-NJ,repmalinowski,NJ,D
+412799,NJ,11,Yea,"Rep. Mikie Sherrill [D, 2019-2024]",Democrat,Mikie Sherrill D-NJ,repsherrill,NJ,D
+412802,NV,3,Yea,"Rep. Susie Lee [D, 2019-2024]",Democrat,"Lee, Susie",repsusielee,NV,D
+412804,NY,14,Yea,"Rep. Alexandria Ocasio-Cortez [D, 2019-2024]",Democrat,Alexandria Ocasio-Cortez D-NY,repaoc,NY,D
+412805,NY,19,Yea,"Rep. Antonio Delgado [D, 2019-2022]",Democrat,Antonio Delgado D-NY,repdelgado,NY,D
+412807,OH,16,Nay,"Rep. Anthony Gonzalez [R, 2019-2022]",Republican,Anthony Gonzalez R-OH,repagonzalez,OH,R
+412809,PA,4,Yea,"Rep. Madeleine Dean [D, 2019-2024]",Democrat,"Dean, Madeleine",repdean,PA,D
+412810,PA,6,Yea,"Rep. Chrissy Houlahan [D, 2019-2024]",Democrat,Chrissy Houlahan D-PA,rephoulahan,PA,D
+412811,PA,9,Nay,"Rep. Daniel Meuser [R, 2019-2024]",Republican,Dan Meuser R-PA,repmeuser,PA,R
+412812,PA,13,Nay,"Rep. John Joyce [R, 2019-2024]",Republican,John Joyce R-PA,repjohnjoyce,PA,R
+412813,PA,14,Nay,"Rep. Guy Reschenthaler [R, 2019-2024]",Republican,"Reschenthaler, Guy",greschenthaler,PA,R
+412815,SC,4,Nay,"Rep. William Timmons [R, 2019-2024]",Republican,"Timmons, William",reptimmons,SC,R
+412816,SD,0,Nay,"Rep. Dusty Johnson [R, 2019-2024]",Republican,Dusty Johnson R-SD,repdustyjohnson,SD,R
+412817,TN,2,Nay,"Rep. Tim Burchett [R, 2019-2024]",Republican,"Burchett, Tim",reptimburchett,TN,R
+412818,TN,6,Nay,"Rep. John W. Rose [R, 2019-2024]",Republican,John Rose R-TN,repjohnrose,TN,R
+412819,TN,7,Nay,"Rep. Mark E. Green [R, 2019-2024]",Republican,"Green, Mark",repmarkgreen,TN,R
+412820,TX,2,Nay,"Rep. Dan Crenshaw [R, 2019-2024]",Republican,"Crenshaw, Dan",repdancrenshaw,TX,R
+412821,TX,3,Nay,"Rep. Van Taylor [R, 2019-2022]",Republican,Van Taylor R-TX,repvantaylor,TX,R
+412822,TX,5,Nay,"Rep. Lance Gooden [R, 2019-2024]",Republican,"Gooden, Lance",lancegooden,TX,R
+412824,TX,7,Yea,"Rep. Lizzie Fletcher [D, 2019-2024]",Democrat,"Fletcher, Lizzie",repfletcher,TX,D
+412825,TX,16,Yea,"Rep. Veronica Escobar [D, 2019-2024]",Democrat,"Escobar, Veronica",repescobar,TX,D
+412826,TX,21,Nay,"Rep. Chip Roy [R, 2019-2024]",Republican,Chip Roy R-TX,repchiproy,TX,R
+412827,TX,29,Yea,"Rep. Sylvia Garcia [D, 2019-2024]",Democrat,"Garcia, Sylvia",repsylviagarcia,TX,D
+412828,TX,32,Yea,"Rep. Colin Allred [D, 2019-2024]",Democrat,"Allred, Colin",repcolinallred,TX,D
+412830,VA,2,Not Voting,"Rep. Elaine Luria [D, 2019-2022]",Democrat,Elaine Luria D-VA,repelaineluria,VA,D
+412832,VA,6,Nay,"Rep. Ben Cline [R, 2019-2024]",Republican,Ben Cline R-VA,repbencline,VA,R
+412833,VA,7,Yea,"Rep. Abigail Spanberger [D, 2019-2024]",Democrat,Abigail Spanberger D-VA,repspanberger,VA,D
+412834,VA,10,Yea,"Rep. Jennifer Wexton [D, 2019-2024]",Democrat,Jennifer Wexton D-VA,repwexton,VA,D
+412835,WA,8,Yea,"Rep. Kim Schrier [D, 2019-2024]",Democrat,Kim Schrier D-WA,repkimschrier,WA,D
+412836,WI,1,Nay,"Rep. Bryan Steil [R, 2019-2024]",Republican,Bryan Steil R-WI,repbryansteil,WI,R
+412837,WV,3,Nay,"Rep. Carol Miller [R, 2019-2022]",Republican,Carol Miller R-WV,repcarolmiller,WV,R
+412842,ME,2,Yea,"Rep. Jared Golden [D, 2019-2024]",Democrat,"Golden, Jared",repgolden,ME,D
+412843,PA,12,Nay,"Rep. Fred Keller [R, 2019-2022]",Republican,Fred Keller R-PA,repfredkeller,PA,R
+412844,NC,9,Nay,"Rep. Dan Bishop [R, 2019-2022]",Republican,"Bishop, Dan",repdanbishop,NC,R
+412845,NC,3,Nay,"Rep. Gregory Murphy [R, 2019-2024]",Republican,Greg Murphy R-NC,repgregmurphy,NC,R
+456791,WI,7,Nay,"Rep. Thomas Tiffany [R, 2020-2024]",Republican,"Tiffany, Thomas ",reptiffany,WI,R
+456792,CA,25,Nay,"Rep. Mike Garcia [R, 2020-2022]",Republican,"Garcia, Mike",repmikegarcia,CA,R
+456793,NY,27,Nay,"Rep. Chris Jacobs [R, 2020-2022]",Republican,Chris Jacobs R-NY,repjacobs,NY,R
+456799,AL,1,Nay,"Rep. Jerry Carl [R, 2021-2024]",Republican,"Carl, Jerry ",repjerrycarl,AL,R
+456800,AL,2,Nay,"Rep. Barry Moore [R, 2021-2024]",Republican,Barry Moore R-AL,repbarrymoore,AL,R
+456801,CA,8,Nay,"Rep. Jay Obernolte [R, 2021-2022]",Republican,Jay Obernolte R-CA,jayobernolte,CA,R
+456802,CA,39,Nay,"Rep. Young Kim [R, 2021-2022]",Republican,"Kim, Young",repyoungkim,CA,R
+456803,CA,48,Nay,"Rep. Michelle Steel [R, 2021-2022]",Republican,Michelle Steel R-CA,repsteel,CA,R
+456804,CA,53,Yea,"Rep. Sara Jacobs [D, 2021-2022]",Democrat,"Jacobs, Sara",repsarajacobs,CA,D
+456805,CO,3,Nay,"Rep. Lauren Boebert [R, 2021-2024]",Republican,"Boebert, Lauren",repboebert,CO,R
+456806,FL,3,Nay,"Rep. Katherine “Kat” Cammack [R, 2021-2024]",Republican,"Cammack, Kat",repkatcammack,FL,R
+456807,FL,15,Nay,"Rep. Scott Franklin [R, 2021-2022]",Republican,"Franklin, C. Scott",repfranklin,FL,R
+456808,FL,19,Nay,"Rep. Byron Donalds [R, 2021-2024]",Republican,Byron Donalds R-FL,repdonaldspress,FL,R
+456809,FL,26,Nay,"Rep. Carlos Gimenez [R, 2021-2022]",Republican,Carlos Gimenez R-FL,repcarlos,FL,R
+456810,FL,27,Nay,"Rep. Maria Salazar [R, 2021-2024]",Republican,Maria Salazar R-FL,repmariasalazar,FL,R
+456811,GA,5,Yea,"Rep. Nikema Williams [D, 2021-2024]",Democrat,Nikema Williams D-GA,repnikema,GA,D
+456812,GA,7,Yea,"Rep. Carolyn Bourdeaux [D, 2021-2022]",Democrat,Carolyn Bourdeaux D-GA,repbourdeaux,GA,D
+456813,GA,9,Nay,"Rep. Andrew Clyde [R, 2021-2024]",Republican,"Clyde, Andrew ",rep_clyde,GA,R
+456814,GA,14,Nay,"Rep. Marjorie Taylor Greene [R, 2021-2024]",Republican,"Greene, Marjorie Taylor",repmtg,GA,R
+456815,HI,2,Yea,"Rep. Kaialiʻi Kahele [D, 2021-2022]",Democrat,Kai Kahele D-HI,repkahele,HI,D
+456816,IA,1,Nay,"Rep. Ashley Hinson [R, 2021-2022]",Republican,Ashley Hinson R-IA,repashleyhinson,IA,R
+456817,IA,2,Nay,"Rep. Mariannette Miller-Meeks [R, 2021-2022]",Republican,Mariannette Miller-Meeks R-IA,repmmm,IA,R
+456818,IA,4,Nay,"Rep. Randy Feenstra [R, 2021-2024]",Republican,"Feenstra, Randy",repfeenstra,IA,R
+456819,IL,3,Yea,"Rep. Marie Newman [D, 2021-2022]",Democrat,Marie Newman D-IL,repmarienewman,IL,D
+456820,IL,15,Nay,"Rep. Mary Miller [R, 2021-2024]",Republican,,,,
+456821,IN,1,Yea,"Rep. Frank Mrvan [D, 2021-2024]",Democrat,Frank Mrvan D-IN,repmrvan,IN,D
+456822,IN,5,Nay,"Rep. Victoria Spartz [R, 2021-2024]",Republican,"Spartz, Victoria",repspartz,IN,R
+456823,KS,1,Nay,"Rep. Tracey Mann [R, 2021-2024]",Republican,"Mann, Tracey",repmann,KS,R
+456824,KS,2,Nay,"Rep. Jacob “Jake” LaTurner [R, 2021-2024]",Republican,Jake LaTurner R-KS,replaturner,KS,R
+456825,MA,4,Yea,"Rep. Jake Auchincloss [D, 2021-2024]",Democrat,"Auchincloss, Jake",repauchincloss,MA,D
+456826,MI,3,Nay,"Rep. Peter Meijer [R, 2021-2022]",Republican,Peter Meijer R-MI,repmeijer,MI,R
+456827,MI,10,Nay,"Rep. Lisa McClain [R, 2021-2022]",Republican,Lisa McClain R-MI,replisamcclain,MI,R
+456828,MN,7,Nay,"Rep. Michelle Fischbach [R, 2021-2024]",Republican,"Fischbach, Michelle",repfischbach,MN,R
+456829,MO,1,Nay,"Rep. Cori Bush [D, 2021-2024]",Democrat,"Bush, Cori",repcori,MO,D
+456830,MT,0,Nay,"Rep. Matthew Rosendale [R, 2021-2022]",Republican,Matt Rosendale R-MT,reprosendale,MT,R
+456831,NC,2,Yea,"Rep. Deborah Ross [D, 2021-2024]",Democrat,Deborah Ross D-NC,repdeborahross,NC,D
+456832,NC,6,Yea,"Rep. Kathy Manning [D, 2021-2024]",Democrat,Kathy Manning D-NC,repkmanning,NC,D
+456833,NC,11,Nay,"Rep. Madison Cawthorn [R, 2021-2022]",Republican,Madison Cawthorn R-NC,repcawthorn,NC,R
+456834,NM,2,Nay,"Rep. Yvette Herrell [R, 2021-2022]",Republican,Yvette Herrell R-NM,repherrell,NM,R
+456835,NM,3,Yea,"Rep. Teresa Leger Fernandez [D, 2021-2024]",Democrat,,,,
+456836,NY,2,Nay,"Rep. Andrew Garbarino [R, 2021-2024]",Republican,Andrew Garbarino R-NY,repgarbarino,NY,R
+456837,NY,11,Nay,"Rep. Nicole Malliotakis [R, 2021-2024]",Republican,"Malliotakis, Nicole",repmalliotakis,NY,R
+456838,NY,15,Yea,"Rep. Ritchie Torres [D, 2021-2024]",Democrat,Ritchie Torres D-NY,repritchie,NY,D
+456839,NY,16,Yea,"Rep. Jamaal Bowman [D, 2021-2024]",Democrat,"Bowman, Jamaal",repbowman,NY,D
+456840,NY,17,Yea,"Rep. Mondaire Jones [D, 2021-2022]",Democrat,Mondaire Jones D-NY,repmondaire,NY,D
+456841,OK,5,Nay,"Rep. Stephanie Bice [R, 2021-2024]",Republican,"Bice, Stephanie",repbice,OK,R
+456842,OR,2,Nay,"Rep. Cliff Bentz [R, 2021-2024]",Republican,"Bentz, Cliff",repbentz,OR,R
+456843,SC,1,Nay,"Rep. Nancy Mace [R, 2021-2024]",Republican,"Mace, Nancy",repnancymace,SC,R
+456844,TN,1,Nay,"Rep. Diana Harshbarger [R, 2021-2024]",Republican,Diana Harshbarger R-TN,repharshbarger,TN,R
+456845,TX,4,Nay,"Rep. Patrick “Pat” Fallon [R, 2021-2024]",Republican,"Fallon, Pat",reppatfallon,TX,R
+456846,TX,11,Nay,"Rep. August Pfluger [R, 2021-2024]",Republican,August Pfluger R-TX,reppfluger,TX,R
+456847,TX,13,Nay,"Rep. Ronny Jackson [R, 2021-2024]",Republican,"Jackson, Ronny",repronnyjackson,TX,R
+456848,TX,22,Nay,"Rep. Troy Nehls [R, 2021-2024]",Republican,"Nehls, Troy",reptroynehls,TX,R
+456849,TX,23,Nay,"Rep. Ernest “Tony” Gonzales [R, 2021-2024]",Republican,"Gonzales, Tony",reptonygonzales,TX,R
+456850,TX,24,Nay,"Rep. Beth Van Duyne [R, 2021-2024]",Republican,Beth Van Duyne R-TX,repbethvanduyne,TX,R
+456851,UT,1,Nay,"Rep. Blake Moore [R, 2021-2024]",Republican,Blake Moore R-UT,repblakemoore,UT,R
+456852,UT,4,Nay,"Rep. Clarence “Burgess” Owens [R, 2021-2024]",Republican,Burgess Owens R-UT,repburgessowens,UT,R
+456853,VA,5,Nay,"Rep. Robert “Bob” Good [R, 2021-2024]",Republican,Bob Good R-VA,repbobgood,VA,R
+456854,WA,10,Yea,"Rep. Marilyn Strickland [D, 2021-2024]",Democrat,Marilyn Strickland D-WA,repstricklandwa,WA,D
+456855,WI,5,Nay,"Rep. Scott Fitzgerald [R, 2021-2024]",Republican,"Fitzgerald, Scott",repfitzgerald,WI,R
+456859,LA,5,Nay,"Rep. Julia Letlow [R, 2021-2024]",Republican,"Letlow, Julia",repjulialetlow,LA,R
+456860,LA,2,Yea,"Rep. Troy Carter [D, 2021-2024]",Democrat,"Carter, Troy",reptroycarter,LA,D
+456861,NM,1,Yea,"Rep. Melanie Stansbury [D, 2021-2024]",Democrat,"Stansbury, Melanie ",rep_stansbury,NM,D
